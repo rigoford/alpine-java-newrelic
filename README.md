@@ -11,6 +11,11 @@ a minimum the `license_key` and `app_name` settings must be updated.
 Add `-javaagent:/opt/newrelic/newrelic.jar` as a JVM Option.
 
 
+## Docker Hub
+
+Available on Docker Hub as [rigoford/alpine-java-newrelic](https://hub.docker.com/r/rigoford/alpine-java-newrelic).
+
+
 ## Further details
 
 Refer to https://docs.newrelic.com/docs/agents/java-agent for further details.
