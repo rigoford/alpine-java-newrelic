@@ -1,4 +1,4 @@
-FROM java:8-alpine
+FROM openjdk:8-jdk-alpine
 
 MAINTAINER Martin Ford <ford.j.martin@gmail.com>
 
